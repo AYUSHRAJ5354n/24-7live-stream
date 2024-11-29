@@ -2,8 +2,8 @@ import subprocess
 
 # Replace with your YouTube stream key
 stream_key = 'YOUR_YOUTUBE_STREAM_KEY'
-# URL to your pre-recorded video on cloud storage
-video_url = 'https://your-cloud-storage-url/video.mp4'  # Replace with your actual URL
+# URL to your pre-recorded video on Google Drive
+video_url = 'https://drive.google.com/uc?export=download&id=YOUR_FILE_ID'  # Replace with your actual file ID
 
 # FFmpeg command to stream the video
 command = [
