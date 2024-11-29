@@ -1,1 +1,1 @@
-web: python stream_video.py
+web: python stream.py
